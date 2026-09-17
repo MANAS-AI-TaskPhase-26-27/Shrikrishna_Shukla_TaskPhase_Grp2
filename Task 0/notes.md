@@ -1,4 +1,4 @@
-AI, Machine Learning and Deep Learning 
+## AI, Machine Learning and Deep Learning 
 
 - AI is the broader field of making computers perform tasks that normally require human intelligence, such as decision making, recognition and problem solving. 
 
